@@ -127,3 +127,103 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Codes/Complete Text Processing/Complete Text Processing.ipynb
+Codes/Deep Learning for NLP with TensorFlow 2 and Keras/Deep Learning Introduction.ipynb
+Codes/Deep Learning for NLP with TensorFlow 2 and Keras/imdb_reviews.txt
+Codes/Deep Learning for NLP with TensorFlow 2 and Keras/Sentiment_Analysis_using_Deep_Learning.ipynb
+Codes/Disaster Tweets Classification using Deep Learning Word Embeddings/Real_or_Not__Disaster_Tweets_Classifications.ipynb
+Codes/Fine Tuning of ML Algorithms/Fine_Tune_Machine_Learning_Model.ipynb
+Codes/GloVe Word Embedding/GloVe Vectors Text Embedding.ipynb
+Codes/GloVe Word Embedding/model.pkl
+Codes/GloVe Word Embedding/text_to_emotion.csv
+Codes/Hate Speech Classification/Hate_Speech_Classification.ipynb
+Codes/IMDB Movie Reviews Sentiment Analysis/IMDB Movie Reviews Sentiment Analysis.ipynb
+Codes/IMDB Movie Reviews Sentiment Analysis/imdb_reviews.txt
+Codes/IMDB Movie Reviews Sentiment Analysis/model.pkl
+Codes/IMDB Movie Reviews Sentiment Analysis/Testing.ipynb
+Codes/Introduction to Machine Learning with scikit-learn/Introduction to scikit-learn .ipynb
+Codes/ML Model Deployment with Flask/app.py
+Codes/ML Model Deployment with Flask/ML Model Deployment with Flask.ipynb
+Codes/ML Model Deployment with Flask/model/model.pkl
+Codes/Multi-Label Text Classification for Stack Overflow Tag Prediction/Multi-Label Text Classification for Stack Overflow Tag Prediction.ipynb
+Codes/Multi-Label Text Classification for Stack Overflow Tag Prediction/svm_multilabel.pkl
+Codes/Multi-Label Text Classification for Stack Overflow Tag Prediction/tfidf-multilabel
+Codes/Multi-Label Text Classification for Stack Overflow Tag Prediction/tfidf-multilabel.pkl
+Codes/Numpy/both.npz
+Codes/Numpy/data.npy
+Codes/Numpy/npa2d.csv
+Codes/Numpy/Numpy.ipynb
+Codes/Pandas/bigmac.csv
+Codes/Pandas/chicago.csv
+Codes/Pandas/Data - Multiple Worksheets.xlsx
+Codes/Pandas/Data - Single Worksheet.xlsx
+Codes/Pandas/data.csv
+Codes/Pandas/df.csv
+Codes/Pandas/ecommerce.csv
+Codes/Pandas/employees.csv
+Codes/Pandas/foods.csv
+Codes/Pandas/fortune1000.csv
+Codes/Pandas/google_stock_price.csv
+Codes/Pandas/houseprice.csv
+Codes/Pandas/IMDB-Movie-Data.csv
+Codes/Pandas/jamesbond.csv
+Codes/Pandas/nba.csv
+Codes/Pandas/Pandas.ipynb
+Codes/Pandas/pokemon.csv
+Codes/Pandas/quarters.csv
+Codes/Pandas/Restaurant - Customers.csv
+Codes/Pandas/Restaurant - Foods.csv
+Codes/Pandas/Restaurant - Week 1 Sales.csv
+Codes/Pandas/Restaurant - Week 1 Satisfaction.csv
+Codes/Pandas/Restaurant - Week 2 Sales.csv
+Codes/Pandas/revenue.csv
+Codes/Pandas/salesmen.csv
+Codes/Pandas/titanic.csv
+Codes/Pandas/worldstats.csv
+Codes/Poetry Generation Using Tensorflow, Keras and LSTM/Poetry_Generation_Using_Tensorflow,_Keras_and_LSTM.ipynb
+Codes/Preprocessing Package/
+Codes/Python Crash Course/Python Crash Course.ipynb
+Codes/Resume and CV Parsing with Spacy/Alice Clark CV.docx
+Codes/Resume and CV Parsing with Spacy/Alice Clark CV.pdf
+Codes/Resume and CV Parsing with Spacy/Alice Clark CV.txt
+Codes/Resume and CV Parsing with Spacy/nlp_model/meta.json
+Codes/Resume and CV Parsing with Spacy/nlp_model/ner/cfg
+Codes/Resume and CV Parsing with Spacy/nlp_model/ner/model
+Codes/Resume and CV Parsing with Spacy/nlp_model/ner/moves
+Codes/Resume and CV Parsing with Spacy/nlp_model/tokenizer
+Codes/Resume and CV Parsing with Spacy/nlp_model/vocab/key2row
+Codes/Resume and CV Parsing with Spacy/nlp_model/vocab/lookups.bin
+Codes/Resume and CV Parsing with Spacy/nlp_model/vocab/strings.json
+Codes/Resume and CV Parsing with Spacy/nlp_model/vocab/vectors
+Codes/Resume and CV Parsing with Spacy/Resume and CV Parsing with Spacy.ipynb
+Codes/Resume and CV Parsing with Spacy/Smith Resume.docx
+Codes/Resume and CV Parsing with Spacy/Smith Resume.pdf
+Codes/Resume and CV Parsing with Spacy/train_data.pkl
+Codes/Resume and CV Parsing with Spacy/train_data.txt
+Codes/Spacy Introduction for NLP/SpaCy Introduction for NLP.ipynb
+Codes/Spam Text Classification/Spam Text Classification.ipynb
+Codes/Spam Text Classification/spam.tsv
+Codes/Twitter Sentiment Analysis/clf.pkl
+Codes/Twitter Sentiment Analysis/Real-Time Twitter Sentiment Plot.ipynb
+Codes/Twitter Sentiment Analysis/sentiment.csv
+Codes/Twitter Sentiment Analysis/tfidf.pkl
+Codes/Twitter Sentiment Analysis/Twitter Sentiment Analysis.ipynb
+Codes/word2vec Word Embedding/imdb_reviews.txt
+Codes/word2vec Word Embedding/w2v_sentiment.pkl
+Codes/word2vec Word Embedding/word2vec Word Embedding.ipynb
+Codes/Working with Text Files/data/data.json
+Codes/Working with Text Files/data/data.txt
+Codes/Working with Text Files/data/data1.txt
+Codes/Working with Text Files/data/data2.txt
+Codes/Working with Text Files/data/data3.txt
+Codes/Working with Text Files/data/digit.csv
+Codes/Working with Text Files/data/digit.tsv
+Codes/Working with Text Files/data/digit_sheet.xlsx
+Codes/Working with Text Files/data/laxmi_gtts.mp3
+Codes/Working with Text Files/data/laxmi_gtts_spanish.mp3
+Codes/Working with Text Files/data/laxmikant.wav
+Codes/Working with Text Files/data/laxmikant_int.wav
+Codes/Working with Text Files/data/moviereviews.tsv
+Codes/Working with Text Files/data/NLP.pdf
+Codes/Working with Text Files/data/pdf_text.txt
+Codes/Working with Text Files/Working with Files in Python.ipynb
